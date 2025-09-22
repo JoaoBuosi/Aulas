@@ -1,4 +1,4 @@
-🐍 Exercícios de Variáveis em Python – Lista 2
+🐍 Exercícios de Variáveis em Python – Lista 
 📘 Exercícios
 
 1.Animal de Estimação
