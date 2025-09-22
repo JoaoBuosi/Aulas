@@ -2,66 +2,72 @@
 
 📘 Exercícios
 
-1.Par ou Ímpar
-Peça um número ao usuário e exiba se ele é par ou ímpar.
+1.Número Maior que 100
+Peça um número ao usuário e diga se ele é maior que 100 ou não.
 
-2.Maioridade
-Peça a idade de uma pessoa e informe se ela é:
+2.Senha Secreta
+Peça ao usuário que digite uma senha até acertar a correta.
+Se a senha estiver errada, exiba uma mensagem de aviso.
+Quando o usuário digitar a senha certa, exiba "Acesso permitido" e encerre o programa.
 
-Menor de idade (menos de 18 anos)
+3.Se a senha for "1234", exiba "Acesso permitido".
 
-Maior de idade (18 anos ou mais)
+Caso contrário, exiba "Senha incorreta".
 
-3.Classificação de Notas
-Peça uma nota (0 a 10) e classifique:
+4.Dia da Semana
+Peça um número de 1 a 7 e mostre o dia correspondente (1 = Domingo, 2 = Segunda, etc.).
 
->= 7 → Aprovado
+5.Verificar Nota Máxima
+Peça uma nota e verifique:
 
->= 5 e < 7 → Recuperação
+Se for 10, exiba "Parabéns, tirou a nota máxima!".
 
-< 5 → Reprovado
+Caso contrário, exiba "Sua nota foi X".
 
-4.Categoria de Idade
-Peça a idade e classifique:
+6.Comparar Nomes
+Peça dois nomes.
 
-0 a 12 → Criança
+Se forem iguais, exiba "Os nomes são iguais".
 
-13 a 17 → Adolescente
+Caso contrário, exiba "Os nomes são diferentes".
 
-18+ → Adulto
+7.Desconto de Idade
+Peça a idade do usuário e verifique:
 
-5.Verificar Login Simples
-Peça um nome de usuário.
+Menos de 12 anos → "Meia entrada infantil"
 
-Se for "admin", exiba "Bem-vindo, administrador!".
+12 a 17 anos → "Desconto jovem"
 
-Caso contrário, exiba "Usuário comum".
+18 ou mais → "Entrada inteira"
 
-6.Número Mágico
-Peça um número e verifique:
+8.Triagem de Temperatura
+Peça a temperatura do corpo (em °C).
 
-Se for 10, mostre "Acertou o número mágico!"
+Menor que 37 → "Temperatura normal"
 
-Se for maior que 10, mostre "Muito alto!"
+37 a 38 → "Febre leve"
 
-Caso contrário, mostre "Muito baixo!"
+Maior que 38 → "Febre alta"
 
-7.Positivo, Negativo ou Zero
-Peça um número e diga se ele é positivo, negativo ou zero.
+9.Número Divisível por 5
+Peça um número e informe se ele é ou não divisível por 5.
 
-8.Maior de Dois Números
-Peça dois números e mostre qual é o maior (ou se são iguais).
+Nota de Filme
+Peça ao usuário para dar uma nota de 1 a 5 para um filme.
 
-9.Categoria de Temperatura
-Peça a temperatura (em °C) e classifique:
+1 ou 2 → "Ruim"
 
-< 0 → Congelando ❄️
+3 → "Regular"
 
-0 a 20 → Frio 🧥
+4 → "Bom"
 
-21 a 30 → Agradável 🌤️
+5 → "Excelente"
 
-> 30 → Quente 🔥
+10.Ano Atual ou Futuro
+Peça um ano.
 
-10.Verificar Vogal ou Consoante
-Peça uma letra e diga se é uma vogal (a, e, i, o, u) ou uma consoante.
+Se for menor que 2025, exiba "Ano passado".
+
+Se for igual a 2025, exiba "Ano atual".
+
+Se for maior que 2025, exiba "Proximo Ano".
